@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.close-con {
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.trigger-button {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.popup-container {
+  border-radius: 10px;
+}
+.thumbnail {
+  cursor: pointer;
+}
+.popup-content {
+  background-color: #ffffff;
+  width: 750px;
+  height: 460px;
+  border-radius: 16px;
+}
